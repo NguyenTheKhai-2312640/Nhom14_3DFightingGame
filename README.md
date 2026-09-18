@@ -19,7 +19,7 @@ Dự án **3D Fighting Game** là một game đối kháng góc nhìn ngang/3D c
 ## 👥 Thành viên thực hiện
 
 | **STT** | **Mã số** | **Họ và tên** | **Vai trò chính** | **Lớp** | **Email** |
-| :---: | :--- | :--- | :--- |
+| :---: | :--- | :--- | :--- | :--- | :--- |
 | **1** | 2312677 | Ngô Văn Trường Long | Nhóm trưởng | CTK47B | 2312677@dlu.edu.vn |
 | **2** | 2312640 | Nguyễn Thế Khải | Thành viên | CTK47B | 2312640@dlu.edu.vn |
 
