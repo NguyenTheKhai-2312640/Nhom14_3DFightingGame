@@ -75,15 +75,3 @@ Dự án **3D Fighting Game** là một game đối kháng góc nhìn ngang/3D c
    - Mở dự án bằng phiên bản Unity `6000.0.72f1`.
 
 ---
-
-## 🕹 Phím điều khiển mặc định (Local 2P)
-
-| Hành động | Player 1 | Player 2 |
-| :--- | :---: | :---: |
-| **Di chuyển (Trái / Phải)** | `A` / `D` | `Left` / `Right` Arrow |
-| **Nhảy / Cúi** | `W` / `S` | `Up` / `Down` Arrow |
-| **Đánh nhẹ (Light Attack)** | `J` | `Numpad 1` |
-| **Đánh mạnh (Heavy Attack)** | `K` | `Numpad 2` |
-| **Đỡ (Block)** | `L` | `Numpad 3` |
-
----
